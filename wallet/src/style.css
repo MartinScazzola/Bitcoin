@@ -1,0 +1,32 @@
+.green-button { 
+    background-color: #33b249; 
+    color: #000000; 
+} 
+.green-button:hover { 
+    border-color: #33b249;
+    color: #ffffff; 
+}
+
+.copy-button {
+    background-color: #33b249; 
+    color: #000000; 
+}
+
+.copied-button {
+    background-color: #383838;
+    border-color: #33b249;
+    color: #ffffff; 
+}
+
+.date-label {
+    color: orange;
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.ubuntu-mono-label {
+    color: #ffffff; 
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 15px;
+}
